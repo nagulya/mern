@@ -1,0 +1,10 @@
+t{
+   /* color: bule;*/
+  /* color: rgba(44, 179, 73, 0.247);*/
+  color: #05ff05
+  .container {
+    /*width: 300px;*/
+    height: 500px;
+    background-color:  #020202;
+    background-image: url(../ dowload(15).jpg);
+}
